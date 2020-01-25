@@ -1,4 +1,4 @@
-# Week
+# Weekend foundation
 - prime number
 ### tax calculator on salary
 - define function which take annual salary
